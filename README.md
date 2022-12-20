@@ -1,6 +1,6 @@
 <h1>7 Day of Code - HTML & CSS</h1>
 
-<p>Projeto utiluzando HTML, CSS e um pouco de javaScript na criação de uma pagina da "Vagas" em uma empresa fictícia de desenvolvimento.</p>
+<p>Projeto utilizando HTML, CSS e um pouco de javaScript na criação de uma pagina da "Vagas" em uma empresa fictícia de desenvolvimento.</p>
 <p>Desafio provido por Giovanna Moeller junto com a Alura.</p>
 
 <hr>
